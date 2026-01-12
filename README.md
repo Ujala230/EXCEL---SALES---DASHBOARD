@@ -1,2 +1,5 @@
 # EXCEL---SALES---DASHBOARD
-sales analysis and dashboard using excel
+Description : 
+this project analyzes sales data using excel
+Tools used:
+-Microsoft excel
